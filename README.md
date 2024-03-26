@@ -1,5 +1,6 @@
 # 💫 About Me:
-French student who study computer science !
+French student studying computer science !  
+Owner of ![](https://hpdle.net/)
 
 
 # 💻 Tech Stack:
